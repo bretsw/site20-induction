@@ -408,10 +408,6 @@ include_graphics("img/singleton.jpg")
 
 --
 
-* Absence of curriculum / new curriculum
-
---
-
 * Available training (PD/in-service days, grad school) not always helpful
 
 --
@@ -422,9 +418,21 @@ include_graphics("img/singleton.jpg")
 
 * Professional isolation
 
+---
+
+# RQ2. Reasons for Seeking
+
+```{r, out.width = "420", echo = FALSE, fig.align = "center"}
+include_graphics("img/singleton.jpg")
+```
+
 --
 
 * Basic needs unmet (e.g., lack of supplies, classroom disrepair, vermin)
+
+--
+
+* Absence of curriculum / new curriculum
 
 --
 
@@ -468,7 +476,7 @@ include_graphics("img/community.jpg")
 
 --
 
-* Professional learning communities (PLCs)
+* Professional learning communities (PLCs) - by grade or by subject
 
 --
 
@@ -566,7 +574,7 @@ include_graphics("img/quote.jpg")
 
 ---
 
-# "We need to sit down and do this"
+# "We need to just sit down"
 
 ```{r, out.width = "360", echo = FALSE, fig.align = "center"}
 include_graphics("img/quote.jpg")
@@ -594,7 +602,7 @@ include_graphics("img/quote.jpg")
 
 ---
 
-# "It's an outlet"
+# "It's for an outlet"
 
 ```{r, out.width = "360", echo = FALSE, fig.align = "center"}
 include_graphics("img/quote.jpg")
@@ -696,11 +704,11 @@ include_graphics("img/learning.jpg")
 
 --
 
-* *for new teachers*: disover professional learning that has worked (and not worked) for peers
+* *for new teachers*: disover professional learning that has been helpful (and unhelpful) for peers
 
 --
 
-* *for teacher educators*: remember the tensions in the journey for new teachers
+* *for teacher educators*: remember the tensions and complications in the journey for new teachers
 
 --
 
@@ -720,7 +728,7 @@ class: inverse, center, middle
 include_graphics("img/construction.jpg")
 ```
 
-**No conclusions yet... this is still a work in progress!**
+**No major conclusions yet... this is still a work in progress!**
 
 ---
 
