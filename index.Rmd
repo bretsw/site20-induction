@@ -2,7 +2,7 @@
 title: "Early-career Educators"
 subtitle: "Experiences with Social Media during Induction"
 author: "K. Bret Staudt Willet"
-date: "April 7, 2020"
+date: "April 10, 2020"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -31,6 +31,14 @@ library(knitr)
 library(tidyverse)
 library(xaringan)
 ```
+
+class: inverse, center, middle
+
+# Slides
+
+[bretsw.github.io/site20-induction](https://bretsw.github.io/site20-induction)
+
+---
 
 class: inverse, center, middle
 
@@ -732,10 +740,14 @@ include_graphics("img/construction.jpg")
 
 ---
 
-class: inverse, center, middle
+class: inverse, left, top
 
 # Questions?
 
-Email: staudtwi@msu.edu
-Twitter: @bretsw
-Web: bretsw.com
+* **Email:** [staudtwi@msu.edu](mailto:staudtwi@msu.edu)
+
+* **Twitter:** [@bretsw](https://twitter.com/bretsw)
+
+* **Web:** [bretsw.com](http://bretsw.com)
+
+* **Slides:** [bretsw.github.io/site20-induction](https://bretsw.github.io/site20-induction)
