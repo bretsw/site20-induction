@@ -222,34 +222,6 @@ include_graphics("img/social-media.jpg")
 
 ---
 
-class: inverse, center, middle
-
-# Purpose
-
----
-
-# Purpose
-
-### Again, the purpose of this study is to explore:
-
---
-
-* what supports for professional learning ECEs seek during induction, if any; 
-
---
-
-* from whom; and 
-
---
-
-* how, if at all, they use social media with the intention of seeking supports and connections.
-
-```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
-include_graphics("img/purpose.jpg")
-```
-
----
-
 # Research Questions
 
 ```{r, out.width = "360", echo = FALSE, fig.align = "center"}
@@ -362,7 +334,7 @@ include_graphics("img/interview.jpg")
 
 ### Data analysis
 
-* transcription, thematic analysis, IRR
+* transcription, emergent coding, thematic analysis
 
 ---
 
